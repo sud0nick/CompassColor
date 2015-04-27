@@ -11,6 +11,7 @@ Hardware Used
 * DC Boarduino (http://www.adafruit.com/products/72)
 * BlueFruit EZ-link breakout (https://www.adafruit.com/products/1588)
 * TIP31 Transistors (3)
+* 1K Ohm Resistors (3)
 * Android based phone
 * RGB LED Strips
 
